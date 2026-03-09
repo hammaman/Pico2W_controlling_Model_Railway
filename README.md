@@ -40,6 +40,8 @@ NOTE: The secrets.py needs to be updated with the SSID and password for your own
 
 Further details of the project can be found in the presentation called Project details and reflections.odp
 
+My contact details are in the file ContactMe.md
+
 Further details of this type of Inglenook layout can be found at:
 https://www.wymann.info/ShuntingPuzzles/Inglenook/inglenook-trackplan.html
 
